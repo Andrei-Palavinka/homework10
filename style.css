@@ -68,7 +68,7 @@ body {
 	grid-template-columns: repeat(4, minmax(50px, 300px));
 	gap: 20px;
 	justify-content: center;
-	margin-top: 300px;
+	margin-top: 80px;
 }
 
 .main-item {
